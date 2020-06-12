@@ -228,3 +228,5 @@ Name the x-axis as United States using "plt.xlabel()"
 Name the y-axis as Medals Tally using "plt.ylabel()"
 
 Rotate the labels of x-axis by 45o using "plt.xticks()"
+
+# FOr query contact: raunakagarwal274@gmail.com
